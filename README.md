@@ -102,6 +102,6 @@
 
 [慕课网](http://www.imooc.com/)
 
-[计算机专业课程体系-网易云课堂](http://study.163.com/curricula/cs.htm)
+[计算机专业课程体系](http://study.163.com/curricula/cs.htm) - 网易云课堂
 
 [牛客网](http://www.nowcoder.com/) - 刷题平台
