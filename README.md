@@ -2,6 +2,8 @@
 
 ### 博客类
 
+[阮一峰](http://www.ruanyifeng.com/blog/)
+
 [廖雪峰](http://www.liaoxuefeng.com/)
 
 [DailyJS](http://dailyjs.com/) - （停更）
@@ -10,11 +12,13 @@
 
 [hongkiat](http://www.hongkiat.com/blog/)
 
+[大搜车](http://f2e.souche.com/blog/)(weekly)
+
 [阿里-UED](http://www.aliued.com/)
 
-[百度-FEX](http://fex.baidu.com/) - （week）
+[百度-FEX](http://fex.baidu.com/) - （weekly）
 
-[腾讯-alloyteam](http://www.alloyteam.com/) - （week）
+[腾讯-alloyteam](http://www.alloyteam.com/) - （weekly）
 
 [腾讯-ISUX](http://isux.tencent.com/) - 设计类（half month）
 
@@ -61,6 +65,8 @@
 [behance](https://www.behance.net/)
 
 ### CSS 框架
+
+[Bulma](http://bulma.io/)
 
 [BootStrap 官网](https://getbootstrap.com/)
 
