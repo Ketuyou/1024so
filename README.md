@@ -117,3 +117,6 @@
 ### 编程游戏
 
 [CodeCombat](http://cn.codecombat.com/) - HTML5角色扮演游戏（入门级）
+
+### 没什么用的东西
+[互联网黑话生成器](https://zhongkai.github.io/nhr/)
